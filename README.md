@@ -24,7 +24,7 @@
 
 ## ✨ Projetos em destaque
 
-- [📌 Plataforma de Captação de Leads (Iove)] — Desenvolvimento de uma plataforma para otimizar a geração e gestão de leads.
+- [📌 Plataforma de Captação de Leads] — Desenvolvimento de uma plataforma para otimizar a geração e gestão de leads.
 
 ---
 
